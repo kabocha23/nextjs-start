@@ -3,5 +3,6 @@
 mark {
   border-radius: 10px;
   background-color: aliceblue; 
-
+  display: flex;
+  flex-direction: column-reverse;
 }
